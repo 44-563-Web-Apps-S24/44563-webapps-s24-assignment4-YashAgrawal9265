@@ -1,0 +1,37 @@
+.speech{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: black;
+}
+
+.direction{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: black;
+    background-color: rgb(200, 235, 183);
+}
+
+.direction:hover{
+    background-color: rgb(235, 195, 187);
+    color: rgb(241, 55, 8)
+}
+
+.zmeyukina{
+    color: rgb(42, 86, 220)
+}
+
+.yats{
+    color:rgb(159, 31, 6)
+}
+
+.groomsman{
+    color:rgb(80, 235, 8)
+}
+
+.nastasya{
+    color: rgb(238, 14, 193)
+}
+
+.aplombov{
+    color:rgb(183, 10, 236)
+}
