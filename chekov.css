@@ -13,25 +13,99 @@
 
 .direction:hover{
     background-color: rgb(235, 195, 187);
-    color: rgb(241, 55, 8)
+    color: rgb(241, 55, 8);
 }
 
 .zmeyukina{
-    color: rgb(42, 86, 220)
+    color: rgb(42, 86, 220);
+}
+.zmeyukina:hover{
+    text-shadow: 2px 3px 5px rgb(26, 68, 194);
+    border: 2px solid rgb(38, 68, 157);
+    width: fit-content;
 }
 
 .yats{
-    color:rgb(159, 31, 6)
+    color:rgb(159, 31, 6);
+}
+.yats:hover{
+    text-shadow: 2px 3px 5px rgb(185, 77, 56);
+    border: 2px solid rgb(112, 40, 25);
+    width: fit-content;
 }
 
 .groomsman{
-    color:rgb(80, 235, 8)
+    color:rgb(80, 235, 8);
+}
+.groomsman:hover{
+    text-shadow: 2px 3px 5px rgb(99, 236, 35);
+    border: 2px solid rgb(118, 229, 67);
+    width: fit-content;
 }
 
 .nastasya{
-    color: rgb(238, 14, 193)
+    color: rgb(238, 14, 193);
+}
+.nastasya:hover{
+    text-shadow: 2px 3px 5px rgb(239, 71, 206);
+    border: 2px solid rgb(163, 27, 136);
+    width: fit-content;
 }
 
 .aplombov{
-    color:rgb(183, 10, 236)
+    color:rgb(183, 10, 236);
+}
+.aplombov:hover{
+    text-shadow: 2px 3px 5px rgb(183, 10, 236);
+    border: 2px solid rgb(182, 31, 228);
+    width: fit-content;
+}
+
+.mozgovoy{
+    color: rgb(5, 250, 250);
+}
+
+.mozgovoy:hover{
+    text-shadow: 2px 3px 5px rgb(5, 250, 250);
+    border: 2px solid rgb(38, 220, 220);
+    width: fit-content;
+}
+
+.zhigalov{
+    color:rgb(204, 232, 44);
+}
+.zhigalov:hover{
+    text-shadow: 2px 3px 5px rgb(204, 232, 44);
+    border: 2px solid rgb(200, 232, 22);
+    width: fit-content;
+}
+
+.dashenka{
+    color:rgba(202, 13, 13, 0.578);
+}
+
+.dashenka:hover{
+    text-shadow: 2px 3px 5px rgba(202, 13, 13, 0.578);
+    border: 2px solid rgba(138, 15, 15, 0.578);
+    width: fit-content;
+}
+
+.chekov-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.chekov-table th, .chekov-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.chekov-table th {
+    background-color: #f2f2f2;
+}
+
+.chekov-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
 }
